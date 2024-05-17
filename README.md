@@ -51,3 +51,22 @@ Following our discussion on Discord, I recommend we use option A
 > comment part 2
 
 Following our discussion on Discord, I recommend we use option A
+
+
+tables:
+
+| colums1 | colums2 | colums3 |
+| :--- | :---: | ---: |
+| i1a | i2a | i3a |
+| i1b | i2b | i3b |
+| i1c | i2c | i3c |
+| i1d | i2d | i3d |
+
+<p align="center"> Html text </p>
+
+<details>
+ <summary>so more info</summary>
+
+ this is the extended text right there!!
+</details>
+
